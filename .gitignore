@@ -1,0 +1,4 @@
+*.ini
+!mist_switch_root_password.ini.example
+*.csv
+!switches.csv.example

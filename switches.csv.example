@@ -1,0 +1,5 @@
+# mac,password - one switch per line. Lines starting with # are ignored.
+# Any MAC format works. Everything after the first comma is the password.
+mac,password
+010203040506,N3w!Root#2026
+01:02:03:04:05:07,An0ther$ecret
